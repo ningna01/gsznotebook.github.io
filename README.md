@@ -1,2 +1,2 @@
-# gsznotebook.github.io
+# gsznotebook
 学习笔记
