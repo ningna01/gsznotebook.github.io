@@ -121,6 +121,7 @@ PLATFORMS
   riscv64-linux-android
   riscv64-linux-gnu
   riscv64-linux-musl
+  x86_64-linux
   x86_64-linux-android
 
 DEPENDENCIES
