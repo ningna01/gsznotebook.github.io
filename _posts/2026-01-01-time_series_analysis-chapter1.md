@@ -3,8 +3,9 @@ layout: post
 author: ningna
 title: "汉密尔顿时间序列分析 - 第一章"
 date: 2026-01-01
-categories: [章节]
+categories: [Time Series Analysis]
 tags: [时间序列, 平稳性]
+math: true
 ---
 
 ## 章节概述
